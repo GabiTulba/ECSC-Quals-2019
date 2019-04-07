@@ -1,4 +1,4 @@
-# Alice (e00 points / 45 solves)
+# Alice (300 points / 45 solves)
 ## Problem statement:
 
 >To use her e-mail, Alice needs to connect to a mail server. The authentication is unilateral, and works as follows: <br>
