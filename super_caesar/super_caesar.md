@@ -1,16 +1,11 @@
-# Crypto Luck (150 points / 47 solves)
+# super_caesar (250 points / 53 solves)
 ## Problem statement:
 
->Alice finally realized that Caesar’s cipher is insecure, so she decided to switch to something stronger: a modified version of Caesar’s cipher that uses two keys.
-<br>
->You intercepted the following message:
-<br>
->Code:
-<br>
->bcjac --- YnuNmQPGhQWqCXGUxuXnFVqrUVCUMhQdaHuCIrbDIcUqnKxbPORYTzVCDBlmAqtKnEJcpED --- UVQR
-<br>
->Decrypt and find your flag. 
-<br>
+>Alice finally realized that Caesar’s cipher is insecure, so she decided to switch to something stronger: a modified version of Caesar’s cipher that uses two keys. <br>
+>You intercepted the following message: <br>
+>Code: <br>
+>bcjac --- YnuNmQPGhQWqCXGUxuXnFVqrUVCUMhQdaHuCIrbDIcUqnKxbPORYTzVCDBlmAqtKnEJcpED --- UVQR <br>
+>Decrypt and find your flag. <br>
 
 ## My opinion:
 
@@ -92,4 +87,3 @@ print 'ECSC{' + plaintext[plaintext.index('FlAGis') + 6:] + '}'
 ```
 <br><br>
 Flag: **ECSC{BGtSheIosNMPWRqTABZcdYhkIeCHtgCB}**
-
